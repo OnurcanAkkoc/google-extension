@@ -1,4 +1,4 @@
-# Google Extension For Save Your Links Locally
+# SAVE YOUR LINKS
 
 - [SAVE IT NOW!](https://google-extension.vercel.app/)
 
